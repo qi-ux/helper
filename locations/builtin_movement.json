@@ -1,6 +1,6 @@
 {
 	"name": "Built-in (Movement)",
 	"description": "Movement locations for popular maps",
-	"update_timestamp": 1664779905,
+	"update_timestamp": 1664780208,
 	"url_format": "https://raw.githubusercontent.com/qi-ux/helper/master/locations/builtin_movement/%map%.json"
 }
